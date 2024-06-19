@@ -1,3 +1,4 @@
 BeautifulSoup4
 PySimpleGUI
 requests
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
